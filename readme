@@ -1,1 +1,2 @@
-
+To run, in command line type 'python rufus.py <directory_name>'. Please note, 
+directory must be nested under the rufus directory.
